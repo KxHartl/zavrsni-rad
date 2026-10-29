@@ -40,3 +40,7 @@ ros2 run planiranje_putanje navigacija_mpp                     # potential field
 ```
 
 Set the goal with *2D Goal Pose* in RViz.
+
+## License
+
+[Apache-2.0](LICENSE). It covers the author's own work in this repository. Third-party parts keep their own licences.
