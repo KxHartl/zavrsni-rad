@@ -1,0 +1,17 @@
+# colcon / CMake build output
+**/build/
+**/install/
+**/log/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and Office temp files
+*.swp
+*~
+~$*
+.DS_Store
+Thumbs.db

@@ -2,7 +2,7 @@
 
 **Planiranje putanje mobilnog robota unutarnjim GPS sustavom**
 
-> Bachelor's thesis, FSB, University of Zagreb, 2024. Mentor: M. Crneković
+> Bachelor's thesis, BSc in Mechatronics and Robotics (Mehatronika i robotika), FSB, University of Zagreb, 2024. Mentor: M. Crneković
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
